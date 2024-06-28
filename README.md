@@ -2,7 +2,7 @@
 增值税计算器
 
 阿拉伯金额数字转换中文大写
-会计基础工作规范[https://cwc.lhvtc.edu.cn/info/1584/2886.htm](https://jdjc.mof.gov.cn/fgzd/202204/t20220419_3803834.htm)
+-会计基础工作规范[https://cwc.lhvtc.edu.cn/info/1584/2886.htm](https://jdjc.mof.gov.cn/fgzd/202204/t20220419_3803834.htm)
 
 　第五十二条 填制会计凭证，字迹必须清晰、工整，并符合下列要求：
 
