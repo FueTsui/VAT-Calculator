@@ -1,6 +1,9 @@
 # VAT-Calculator
 增值税计算器
 
+![增值税计算器](https://github.com/user-attachments/assets/707914db-136d-4c6f-b8f2-eb2468c32b97)
+
+
 阿拉伯金额数字转换中文大写
 - 会计基础工作规范[https://cwc.lhvtc.edu.cn/info/1584/2886.htm](https://jdjc.mof.gov.cn/fgzd/202204/t20220419_3803834.htm)
 
